@@ -1,0 +1,23 @@
+{
+  "name": "learning-javascript-02",
+  "version": "1.0.0",
+  "description": "- 共通の条件：Node.js上で動かすこと。 - 採点（計10点）     - 必須課題：7点     - 発展課題：3点",
+  "main": "01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakuratti/learning-javascript-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakuratti/learning-javascript-02/issues"
+  },
+  "homepage": "https://github.com/sakuratti/learning-javascript-02#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
